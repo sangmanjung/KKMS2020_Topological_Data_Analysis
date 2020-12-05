@@ -1,10 +1,10 @@
 ### KKMS2020_Topological_Data_Analysis  
 #### "_Kangwon-Kyungki Mathematical Society 2020 Conference_"
   
-- presentation file
+- Presentation file
 	+ _Application of topological data analysis in biomechanics.pdf_
   
-- information about the conference  
+- Information about the conference  
   + _time table.pdf_
   + _kkms_2020_conference.pdf_
   
