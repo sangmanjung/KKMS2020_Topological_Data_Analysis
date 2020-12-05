@@ -2,7 +2,7 @@ library(TDA)
 library(readxl)
 
 ## Data load
-path_name <- 'C:/Users/92nor/Desktop/20201110_바탕화면 자료/golf data computation/golf_subject.xlsx'
+path_name <- 'insert your file path'
 sheet_name <- excel_sheets(path = path_name)
 
 tmp <- read_excel(path = path_name, sheet = sheet_name[1])
