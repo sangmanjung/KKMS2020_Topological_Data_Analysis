@@ -1,11 +1,15 @@
 ### KKMS2020_Topological_Data_Analysis  
-#### _Kangwon-Kyungki Mathematical Society_
+#### "_Kangwon-Kyungki Mathematical Society 2020 Conference_"
+  
 - presentation file
-	+ Application of topological data analysis in biomechanics.pdf
+	+ _Application of topological data analysis in biomechanics.pdf_
   
 - information about the conference  
-  + time table.pdf
-  + kkms_2020_conference.pdf
+  + _time table.pdf_
+  + _kkms_2020_conference.pdf_
+  
+- R code (for R user)  
+  + _simple_analysis_withTDA.R_
 
-
-![kkms2020](https://user-images.githubusercontent.com/43581612/98345761-6fcf4e80-2058-11eb-966f-b70f456354a3.png)
+- Abstract
+  >In this work, we introduce an application of topological data analysis in biomechanics, which is a new framework of data analysis and combination of topology and computation. Topological data analysis employs the persistence concept with the homology theory in algebraic topology, so that it can be more efficient to detect hidden topological feature of the data than the other existing data analysis methods. We analyzed joint kinematics in biomechanics for 9 subjects with 31 variables as an application case.
