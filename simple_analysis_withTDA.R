@@ -30,7 +30,6 @@ for (i in 1:p){
        xlab = 'the number of nodes',ylab = 'filtration')
 }
 
-
 ## Persistent homology
 maxdimension <- 2 # connected components, loops, and voids (b0, b1, and b2)
 maxscale <- 2 # limit of the filtration
@@ -77,5 +76,3 @@ for (i in 1:(maxdimension+1)){
   # number 1~9 == subject 1~9
   text(MDS_all[,,i],rownames(MDS_all[,,i]),cex = 1.5,col = 'Blue')
 }
-
-
