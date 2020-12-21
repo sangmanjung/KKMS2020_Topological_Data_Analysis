@@ -3,7 +3,7 @@
   
 - Presentation file
 	+ _Application of topological data analysis in biomechanics.pdf_
-	+ _presentation_video_sangmanjung.pptx_
+	+ _presentation_video_sangmanjung.pptx (need to encode the video)_
   
 - Information about the conference  
   + _time table.pdf_
